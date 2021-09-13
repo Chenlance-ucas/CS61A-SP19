@@ -14,6 +14,8 @@ def map2(f,lnk):
     return new_lnk
 
 
+lst=[]
+
 def a(link):
      link.first = link.first.rest
 
